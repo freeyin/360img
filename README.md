@@ -1,4 +1,5 @@
 #写真图集
+#
 本仓库开放可以随意采集使用
 #
 官方地址：www.girl-img.ml
@@ -7,4 +8,8 @@
 #
 有些图片过大
 #
-裸采集：https://github.com/laoyin-youtube/girl-img
+引用地址1：https://img.girl-imgg.ml/img/......
+#
+引用地址2：https://raw.githubusercontent.com/freeyin/360img/img/......
+#
+按照上述引用图片
