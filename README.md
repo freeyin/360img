@@ -1,0 +1,10 @@
+#写真图集
+本仓库开放可以随意采集使用
+#
+官方地址：www.girl-img.ml
+#
+请使用上面地址采集
+#
+有些图片过大
+#
+裸采集：https://github.com/laoyin-youtube/girl-img
